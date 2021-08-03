@@ -1,6 +1,6 @@
 ### Hi this is Bumjin 👋
 
-🌱I'm currently learning bigdata
+🌱 Studying at SCH University, majoring in Big Data Engineering
 <!--
 **jobumjin/jobumjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
