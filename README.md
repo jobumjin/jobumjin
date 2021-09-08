@@ -1,9 +1,9 @@
 ### Hi this is Bumjin 👋
 
-🌱 Studying at SCH University, majoring in Big Data Engineering.
-💬 I love play the guitar and computer game.
-📫 E-mail : jobumjin5500@gmail.com 
-⚡ My fun fact is that my first major was Mathematics.
+🌱 Studying at SCH University, majoring in Big Data Engineering. /n
+💬 I love play the guitar and computer game. /n
+📫 E-mail : jobumjin5500@gmail.com /n
+⚡ My fun fact is that my first major was Mathematics. /n
 
 <!--
 **jobumjin/jobumjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
