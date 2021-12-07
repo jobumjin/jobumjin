@@ -6,9 +6,6 @@
 
 - 📫 E-mail : jobumjin5500@gmail.com
 
-- ⚡ My fun fact is that my first major was Mathematics.
-
-
 <!--
 **jobumjin/jobumjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
