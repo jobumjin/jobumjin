@@ -4,7 +4,8 @@
 
 - 💬 I love playing guitar and computer game.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobumjin&show_icons=true&theme=radical)
+![jobumjin github stats](https://github-readme-stats.vercel.app/api?username=jobumjin&show_icons=true)
+[![jobumjin github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jobumjinID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jobumjin)
 <!--
 **jobumjin/jobumjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
