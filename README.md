@@ -4,7 +4,6 @@
 
 - 💬 I love playing guitar and computer game.
 
-- 📫 E-mail : jobumjin5500@gmail.com
 
 <!--
 **jobumjin/jobumjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
