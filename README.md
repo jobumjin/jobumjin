@@ -2,7 +2,7 @@
 
 - 🌱 Studying at SCH University, majoring in Big Data Engineering.
 
-- 💬 I love play the guitar and computer game.
+- 💬 I love playing guitar and computer game.
 
 - 📫 E-mail : jobumjin5500@gmail.com
 
