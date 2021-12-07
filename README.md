@@ -4,7 +4,7 @@
 
 - 💬 I enjoy playing guitar and computer game.
 
-- 🚀 I hope to develop every things.
+- 🚀 I hope to develop every things.  
   
   
   
