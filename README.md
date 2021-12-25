@@ -1,4 +1,4 @@
-### Hi this is Bumjin 👋
+# Hi this is Bumjin 👋
 
 - 🌱 Studying at SCH University, majoring in Big Data Engineering.
 
