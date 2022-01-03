@@ -8,7 +8,13 @@
   
   
 ------
-Tech Stack
+# Tech Stack 🛠
+
+### * Back End
+
+### * Front End
+
+------
 <!--
 **jobumjin/jobumjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
