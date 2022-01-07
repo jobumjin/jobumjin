@@ -2,7 +2,7 @@
 
 - 🌱 Studying at SCH University, majoring in Big Data Engineering.
 
-- 💬 I enjoy playing guitar and computer game.
+- 💬 I enjoy playing guitar and computer programming.
 
 - 🚀 I hope to develop every things.
   
