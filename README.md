@@ -10,9 +10,9 @@
 ------
 # Tech Stack 🛠
 
-### * Back End
+* ### Back End
 
-### * Front End
+* ### Front End
 
 ------
 <!--
