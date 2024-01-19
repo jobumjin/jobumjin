@@ -1,6 +1,6 @@
 # Hi this is Bumjin 👋
 
-- 🌱 Studying at SCH University, majoring in Big Data Engineering.
+- 🌱 my majoring in Big Data Engineering.
 
 - 💬 I enjoy playing guitar and computer programming.
 
